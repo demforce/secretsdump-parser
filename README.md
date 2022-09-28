@@ -16,7 +16,7 @@ Let's say you have dumped some hashes and in your dump file there is:
   * Administrator:12131:aad3b435b51404eeaad3b435b51404ee:8846F7EAEE8FB117AD06BDD830B7586C:::
 
 
-After cracking the hash you discover its password is:
+After cracking the hash you discover the password is:
 
   * password
   
