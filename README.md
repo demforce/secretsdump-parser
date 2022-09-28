@@ -25,6 +25,6 @@ You need a file containing:
 
   * 8846F7EAEE8FB117AD06BDD830B7586C:password
   
-That's all you need! run the parser and you will end up with the output file containing:
+That's all you need! Run the parser and you will end up with the output file containing:
  
   * Administrator:password
