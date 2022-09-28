@@ -1,6 +1,6 @@
 # secretsdump-parser
-When you dump hashes via Impacket-secretsdump, you have the chanche to get and crack the hashes for the dumped accounts.
-After the cracking process how do you know which hash corresponds to which user in your dump? Here comes secretdump-parser! 
+When you dump hashes via Impacket-secretsdump, you can crack the dumped hashes.
+After the cracking process how do you know which hash corresponds to which user in your dump? Here comes **secretdump-parser**! 
 It takes in input 3 file:
 
   * secretsdump: the dump file
